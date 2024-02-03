@@ -16,12 +16,6 @@ Welcome to the Fashion Portfolio Website! This project is a responsive and visua
 - CSS
 - Remixicon for icons
 
-
-## Technologies Used
-
-- HTML
-- CSS
-
 ## Installation
 
 1. Clone the repository.
